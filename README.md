@@ -12,8 +12,8 @@ Hi! I'm Rachel Crutchfield, a Senior Data Analyst at Vail Resorts (Ski and Ride 
 - **Learning**: Python, machine learning, advanced data modeling, structured communication, and storytelling
 
 ## Repository Structure:
-- Organized by **primary skill**, then **project**, then **data/results/other**.
-- Each project includes:
+- Lists of repos indicate which skills are showcased in each.
+- Each project is in its own repo, and includes:
     - Skill focus
     - Data source
     - Methodology
