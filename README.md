@@ -2,7 +2,7 @@
 Hi! I'm Rachel Crutchfield, a Senior Data Analyst at Vail Resorts (Ski and Ride School) with 8 years of experience in data analytics. I hold a Master's in Business Analytics from the University of Colorado, Boulder. I love data and challenges, which makes my long-term goal of becoming a Data Unicorn the perfect fit!
 
 ## Goals:
-### This repository is designed to:
+### This profile is designed to:
 - Build by skills in Python, R, SQL, data modeling, data wrangling, and storytelling
 - Showcase projects including predictive modeling, descriptive modeling, dashboards, ETL pipelines, and more.
 - Create a well-rounded portfolio within one year, and continue growing it as I advance in my career.
@@ -19,7 +19,7 @@ Hi! I'm Rachel Crutchfield, a Senior Data Analyst at Vail Resorts (Ski and Ride 
     - Methodology
     - Results and insights
 
-## How to Use this Repo:
+## How to Use this Profile:
 - Intended for personal reference and as a resource for recruiters or hiring managers.
 - Clear structure for easy navigation.
 
